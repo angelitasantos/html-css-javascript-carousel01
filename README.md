@@ -2,5 +2,5 @@
 Carousel with HTML, CSS, JavaScript
 
 utilização do
-setInterval(function, 1800)
+setInterval(function, milésimos de segundos)
 para carousel automático
