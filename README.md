@@ -1,6 +1,6 @@
-# javascript-carousel01
-Carousel with HTML, CSS, JavaScript
+# Carousel with HTML, CSS, JavaScript
 
-utilização do
+utilizado
+
 setInterval(function, milésimos de segundos)
 para carousel automático
